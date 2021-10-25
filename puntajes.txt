@@ -1,0 +1,12 @@
+Bart,1000
+Tom,5
+Pancho, 10
+Juan,4
+Hug,204
+Tom,1
+Bart,5
+javi,7
+Bart,8
+Bartolo,2
+Bart,106
+Bart,2
